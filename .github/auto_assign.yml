@@ -1,0 +1,7 @@
+addAssignees: author
+addReviewers: true
+reviewers:
+  - VeriFlowQA/VeriFlow-QA
+filterLabels:
+  exclude:
+    - build-failure
